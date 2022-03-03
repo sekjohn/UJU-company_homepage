@@ -1,16 +1,18 @@
-import React, {useState, useEffect} from 'react';;
-import { makeStyles } from '@material-ui/styles';
-import Box from '@material-ui/core/Box';
-
-import Bar from "./bar";
-import SpaceImage from './Img/space.jpg';
 import { MainTitle } from './maintitle';
 import { Introduction } from "./Page/introduction01";
 import { Introduction01_1} from "./Page/introduction01-1";
 import { Introduction02 } from "./Page/introduction02";
 import { Introduction03 } from "./Page/introduction03";
 import { Introduction04 } from "./Page/introduction04";
+import { makeStyles } from '@material-ui/styles';
 import { Title } from './titletext';
+import {useState, useEffect} from 'react';
+
+import React from 'react';
+import Box from '@material-ui/core/Box';
+import Bar from "./bar";
+import SpaceImage from './Img/space.jpg';
+
 
 const useStyles = makeStyles({
     '@global': {    
