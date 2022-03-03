@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UJU-company_homepage/static/css/main.9330ec45.css",
+    "main.js": "/UJU-company_homepage/static/js/main.0fd18a9e.js",
+    "static/js/787.6f61d7fc.chunk.js": "/UJU-company_homepage/static/js/787.6f61d7fc.chunk.js",
+    "static/media/ONE_Mobile_Title.ttf": "/UJU-company_homepage/static/media/ONE_Mobile_Title.9320691773364abbffb2.ttf",
+    "static/media/space.jpg": "/UJU-company_homepage/static/media/space.8d9157630190cf50eb4a.jpg",
+    "static/media/space_star.png": "/UJU-company_homepage/static/media/space_star.54488fba0f432c699bdc.png",
+    "static/media/tway_fly.ttf": "/UJU-company_homepage/static/media/tway_fly.f185ccf210dc6f99bad3.ttf",
+    "static/media/png": "/UJU-company_homepage/static/media/ba68bbe6c319a08172d25c7b2c33ffc9.ad8e5ba909be3fb4fdca.png",
+    "index.html": "/UJU-company_homepage/index.html",
+    "static/media/arrow-angle-left-circle-svgrepo-com.svg": "/UJU-company_homepage/static/media/arrow-angle-left-circle-svgrepo-com.cdd485d0837df5c209951dc4fa891f87.svg",
+    "static/media/arrow-angle-right-circle-svgrepo-com.svg": "/UJU-company_homepage/static/media/arrow-angle-right-circle-svgrepo-com.d5eb727d931266b48ec1768f67e22964.svg",
+    "main.9330ec45.css.map": "/UJU-company_homepage/static/css/main.9330ec45.css.map",
+    "main.0fd18a9e.js.map": "/UJU-company_homepage/static/js/main.0fd18a9e.js.map",
+    "787.6f61d7fc.chunk.js.map": "/UJU-company_homepage/static/js/787.6f61d7fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9330ec45.css",
+    "static/js/main.0fd18a9e.js"
+  ]
+}
